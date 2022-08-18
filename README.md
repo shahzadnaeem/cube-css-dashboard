@@ -9,3 +9,9 @@ A banking dashboard that you build in the Piccalilli tutorial: Build a dashboard
 1. Clone the repo
 2. Run `npm install`
 3. Run `npm start` to run and watch Sass or run `npm run build` to create a production version of the CSS.
+
+## Notes
+
+- Followed tutorial
+- Made some changes to _pill.scss and a few other minor changes
+- Saved in GitHub :)
